@@ -1,6 +1,6 @@
 {
   "name": "einvoice-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "电子发票识别 CLI 工具 (PDF/OFD)",
   "main": "index.js",
   "bin": {
@@ -10,13 +10,15 @@
     "start": "node bin/cli.js",
     "test": "node test/test.js"
   },
-  "keywords": [
-    "invoice",
-    "pdf",
-    "ofd",
-    "recognition"
-  ],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuangqi/einvoice-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhuangqi/einvoice-nodejs/issues"
+  },
+  "homepage": "https://github.com/zhuangqi/einvoice-nodejs#readme",
+  "author": "jhoncy",
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
