@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+.env
+*.log
+dist/
+build/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
