@@ -1,6 +1,6 @@
 {
   "name": "einvoice-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "电子发票识别 CLI 工具 (PDF/OFD)",
   "main": "index.js",
   "bin": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhuangqi/einvoice-nodejs.git"
+    "url": "git+https://github.com/zhuangqi/einvoice-nodejs.git"
   },
   "bugs": {
     "url": "https://github.com/zhuangqi/einvoice-nodejs/issues"
