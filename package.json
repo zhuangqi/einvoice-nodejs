@@ -1,6 +1,6 @@
 {
   "name": "einvoice-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "电子发票识别 CLI 工具 (PDF/OFD)",
   "main": "index.js",
   "bin": {
